@@ -19,6 +19,6 @@
 /tmp
 
 # ignore vender files
-/vender/bundle/*
+/vendor/bundle/*
 .DS_Store
 
